@@ -1,4 +1,1 @@
-# git_test
-hello odin!
-i love alma very very muchhhhhhh
-test to see if i remember how to do this shit 
+This is where im learning html css and javascript in TOP :) 
